@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n wdibot
+web: bin/hubot -a slack -n slackbot
