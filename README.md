@@ -8,13 +8,13 @@ This README is intended to help get you started. Definitely update and improve t
 [hubot]: http://hubot.github.com
 [generator-hubot]: https://github.com/github/generator-hubot
 
-### Running wdibot Locally
+### Running wdibot locally
 
 You can test your hubot by running the following.
 
-You can start wdibot locally by running:
+You can start the bot locally by running:
 
-    % bin/hubot
+    % bin/hubot -n [wdibot]
 
 You'll see some start up output about where your scripts come from and a
 prompt:
